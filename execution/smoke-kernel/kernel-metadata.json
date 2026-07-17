@@ -1,0 +1,16 @@
+{
+  "id": "lehoangnam/kaggle-agent-compute-smoke",
+  "title": "Kaggle Agent Compute Smoke",
+  "code_file": "smoke.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "machine_shape": "",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

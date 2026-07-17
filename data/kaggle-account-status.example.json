@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "registry_path": "D:\\projects\\personal\\kaggle-agent-compute\\data\\kaggle-account-registry.local.json",
+  "updated_at_utc": "2026-06-29T00:00:00Z",
+  "accounts": [
+    {
+      "alias": "primary",
+      "registry_username": "lehoangnam",
+      "observed_username": "lehoangnam",
+      "profile_dir": "%USERPROFILE%\\.kaggle-profiles\\primary",
+      "auth_ok": true,
+      "credential_files": [
+        "credentials.json"
+      ],
+      "notebook_quota": {
+        "status": "ok",
+        "refresh_at": "2026-06-30T00:00:00Z",
+        "gpu": {
+          "used_hours": 4.5,
+          "remaining_hours": 25.5,
+          "total_hours": 30.0
+        },
+        "tpu": null
+      },
+      "benchmark_spend": {
+        "status": "manual",
+        "remaining_monthly_usd": 76.0,
+        "remaining_daily_usd": 8.5,
+        "last_observed_utc": "2026-06-29T00:00:00Z",
+        "source": "manual",
+        "notes": "Example only. Fill this from the Benchmarks UI until there is a supported API."
+      },
+      "updated_at_utc": "2026-06-29T00:00:00Z"
+    }
+  ]
+}

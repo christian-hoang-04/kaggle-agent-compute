@@ -1,0 +1,23 @@
+# Local account state and machine-specific snapshots
+data/*.local.json
+data/*.local.jsonl
+
+# Generated outputs and fetched artifacts
+execution/run-output/
+execution/smoke-output/
+execution/gpu-probe-output/
+execution/baseline-pytorch-mnist-output/
+
+# Local upload staging and large model payloads
+execution/dataset-upload/
+execution/external/pytorch-examples/
+
+# Python and notebook caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak

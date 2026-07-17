@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "credential_root": "%USERPROFILE%\\.kaggle-profiles",
+  "active_kaggle_dir": "%USERPROFILE%\\.kaggle",
+  "accounts": [
+    {
+      "alias": "primary",
+      "kaggle_username": "lehoangnam",
+      "profile_dir": "%USERPROFILE%\\.kaggle-profiles\\primary",
+      "allowed_compute": ["cpu", "gpu"],
+      "default_compute": "gpu_when_useful",
+      "intended_use": [
+        "smoke tests",
+        "notebook experiments",
+        "model training",
+        "model inference"
+      ],
+      "notes": "Example non-secret registry entry. Do not store passwords, OAuth blobs, API tokens, or cookies here.",
+      "last_verified_utc": null
+    }
+  ]
+}
